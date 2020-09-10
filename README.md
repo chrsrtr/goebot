@@ -1,2 +1,0 @@
-# goebot
-sample goebot
